@@ -19,3 +19,11 @@
 * Then we need to set the upstream information by running the following command - ```git remote add origin https://github.com/sankita15/Git_Notes.git```
 
 * Then push your changes ```git push -u origin master```
+
+
+# Deleting the initial commit:
+```text
+git update-ref -d HEAD
+```
+
+It will delete the named reference HEAD, so it will reset (softly, you will not lose your work) all your commits of your current branch.

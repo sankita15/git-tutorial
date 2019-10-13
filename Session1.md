@@ -37,3 +37,5 @@ Assumption:- You have 3 files in your repository. you need to add them and then 
 2.) What happens internally in git when you commit your staged changes? 
 
 3.) How to revert the locally committed change? (version - no one knows)
+
+4.) How to revert it if its the initial commit :wink: 😉
