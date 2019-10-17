@@ -15,11 +15,11 @@ How git knows in which branch you are currently in?
 
 4.) **git branch <_flag_>**: 
 
-    | Flag       | Use                                                          |
-    |------------|-:------------------------------------------------------------|
-    | -v         | list all the branch with their last commit.                  |
-    | --merged   | list down all the merged branch which you can delete safely. |
-    | --no-merge | list down all the un-merged branch.                          |
+| Flag       | Use                                                          |
+|------------|--------------------------------------------------------------|
+| -v         | list all the branch with their last commit.                  |
+| --merged   | list down all the merged branch which you can delete safely. |
+| --no-merge | list down all the un-merged branch.                          |
  
 5.) **git merge <_branch_name_>**: If your current branch is A then this command will merge specific branch to branch A.So branch A will have all the updated changes.
 
