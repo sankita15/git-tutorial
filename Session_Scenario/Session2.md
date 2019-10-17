@@ -23,7 +23,7 @@ How git knows in which branch you are currently in?
 
 ###Scenario 1: 
 
-![](images/basic-branching-3.png)
+![](../images/basic-branching-3.png)
 
 You need to merge **iss53** branch to master.
 
@@ -38,7 +38,7 @@ You need to merge **iss53** branch to master.
 
 ###Scenario 2:
 
-![](images/basic-branching-7.png)
+![](../images/basic-branching-7.png)
 
 Now the case is different here, because the commit on the branch you’re on isn’t a direct ancestor of the branch you’re merging in, Git has to do some work.
 
@@ -50,4 +50,6 @@ Now the case is different here, because the commit on the branch you’re on isn
 
 ###Scenario 3: 
 Explain the conflicts scenario.
+
+How to delete a local branch & remote branch? 
 

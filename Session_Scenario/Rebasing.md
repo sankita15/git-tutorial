@@ -3,7 +3,7 @@
 * Rebasing: you can take all the changes that were committed on one branch and replay them on a different branch.
 
 Suppose the scenario is as below:
-![](images/basic-rebase-1.png)
+![](../images/basic-rebase-1.png)
 
 Now you want to integrate your changes to master branch, you can perform a 3-way merge also and end up having a merge commit to perform the task.
 Other way of doing it as **you can take the patch of the change that was introduced in C4 and reapply it on top of C3.**
@@ -18,7 +18,7 @@ First, rewinding head to replay your work on top of it...
 Applying: added staged command
 ```
 
-![](images/basic-rebase-3.png)
+![](../images/basic-rebase-3.png)
 
 the end product from 3-way merge i.e., the merge commit and from rebase will be same just rebase provides a cleaner history.
 

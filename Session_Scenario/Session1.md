@@ -9,7 +9,7 @@ origin	https://github.com/schacon/ticgit (push)
 
 2.)**git remote add short_name url**:To add remote git repository as a short name.
 
-![](images/areas.png)
+![](../images/areas.png)
 
 3.)**git clone url**: To clone an existing repositories.**(.git repository)**
 

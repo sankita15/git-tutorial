@@ -92,7 +92,7 @@ git show HEAD^^
 #### Commit Ranges
 * Double Dot:-Double dot will show all commits reachable from experiment that aren’t reachable from master.
 
-![](images/double-dot.png)
+![](../images/double-dot.png)
 
 ```text
 $ git log master..experiment
