@@ -4,7 +4,7 @@
 
 * I went to github and created a new private repository in my personal github account.
 
-* As I already have a gap account set up in my global gitconfig so I set up local git config specific to this repository.
+* As I already have a company account set up in my global gitconfig so I set up local git config specific to this repository.
 
 * Enter the command - ```git config user.name "ankita sri"```
 
