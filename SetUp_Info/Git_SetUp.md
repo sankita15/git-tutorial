@@ -10,7 +10,7 @@
 
 * Then - ```git config user.email "ankitacs0018@gmail.com"```
 
-* For confirmation I checked in ```cat .git/config``` and saw for this repository I have different username and password other than gap account.
+* For confirmation I checked in ```cat .git/config``` and saw for this repository I have different username and password other than project account.
 
 * Dont check use ```cat ~/.gitconfig``` as this will show global config details
 
