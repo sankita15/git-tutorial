@@ -6,9 +6,9 @@
 
 * As I already have a company account set up in my global gitconfig so I set up local git config specific to this repository.
 
-* Enter the command - ```git config user.name "ankita sri"```
+* Enter the command - ```git config user.name "<your name>"```
 
-* Then - ```git config user.email "ankitacs0018@gmail.com"```
+* Then - ```git config user.email "<your email>"```
 
 * For confirmation I checked in ```cat .git/config``` and saw for this repository I have different username and password other than project account.
 
